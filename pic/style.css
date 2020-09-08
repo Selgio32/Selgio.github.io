@@ -34,6 +34,7 @@ border-collapse: collapse;
 border-spacing: 0;
 text-align: center;
 border-width: 2pt;
+border: 2px solid black;
 }
 .tra
 {
