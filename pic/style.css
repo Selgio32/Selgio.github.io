@@ -21,10 +21,14 @@ padding: 20 px;
 text-align: center;
 vertical-align: top;
 }
-.table
+#table
 {
 text-align: center;
 border: 2px solid black;
 width: 400 pt;
 table-layout: auto;
+}
+.tra
+{
+background-color: Gainsboro;
 }
