@@ -2,23 +2,22 @@ body {
 margin: 0;
 padding: 0;
 }
-#header {
-height: 200px;    
-}
 
 .content {
 height: 300px;
-font-size: 16pt;
+font-size: 13pt;
 text-align: center;
 }
 .h1
 {
 font-size: 16pt;
+padding: 20 px;
 text-align: center;
 }
 .h2
 {
 font-size: 14pt;
+padding: 20 px;
 text-align: center;
 }
 .table
