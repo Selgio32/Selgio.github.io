@@ -26,12 +26,12 @@ text-align: center;
 margin: auto;
 border-width: 2pt;
 table-layout: auto;
-border-spacing: 0
-}
-#table .tra
-{
+border-spacing: 0;
 border: 2px solid black;
-text-align: center
+text-align: center;
+}
+.tra
+{
 }
 .tul
 {
