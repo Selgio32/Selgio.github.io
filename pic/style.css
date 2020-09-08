@@ -23,8 +23,10 @@ vertical-align: top;
 }
 #table
 {
-text-align: center;
+margin: auto;
+border-collapse: collapse;
 border: 2px solid black;
+border-width: 2pt;
 width: 400 pt;
 table-layout: auto;
 }
