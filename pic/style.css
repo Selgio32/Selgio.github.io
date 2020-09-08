@@ -16,7 +16,8 @@ text-align: center;
 }
 #img
 {
-height:720px;
+  height: auto;
+  display: block;
 }
 .h2
 {
