@@ -30,7 +30,11 @@ border-spacing: 0
 }
 #table .tra
 {
-background-color: Gainsboro;
 border: 2px solid black;
 text-align: center
+}
+.tul
+{
+font-weight: bolder;
+background-color: Gainsboro;
 }
