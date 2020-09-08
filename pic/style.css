@@ -24,4 +24,6 @@ vertical-align: top;
 .table
 {
 text-align: center;
+border: 2px solid black;
+width: 400 pt;
 }
